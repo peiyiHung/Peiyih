@@ -1,0 +1,23 @@
+---
+title: Hi Hugo
+author: Peiyi Hong
+date: '2023-03-24'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-03-24T20:18:03+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+A plain new post
+
+```{r}
+summary(Orange)
+```
